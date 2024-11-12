@@ -1,0 +1,8 @@
+{
+    "tutorial.reignofnether.welcome": "ยินดีต้อนรับสู่ Reign of Nether",
+    "tutorial.reignofnether.join": "กดปุ่ม F12 เพื่อสลับโหมดกล้อง RTS และเข้าร่วมเกม",
+    "tutorial.reignofnether.help": "ใช้คำสั่ง '/rts-help' เพื่อดูรายการคำสั่งทั้งหมด",
+    "tutorial.reignofnether.controls": "ใช้คำสั่ง '/rts-controls' เพื่อดูรายการปุ่มควบคุมต่างๆ",
+    "tutorial.reignofnether.op_commands": "ในฐานะผู้ปฏิบัติการเซิร์ฟเวอร์ คุณสามารถใช้:",
+    "tutorial.reignofnether.syncing": "/rts-syncing enable | disable (ทดลอง)"
+}
