@@ -1,4 +1,23 @@
 {
+    "hud.helperbuttons.reignofnether.chat": "แชท (enter)",
+
+    "hud.map.reignofnether.open": "เปิดแผนที่ใหญ่",
+
+    "hud.startbuttons.villagers.reignofnether.first": "เข้าร่วมเกมในฐานะฝ่ายชาวบ้าน",
+    "hud.startbuttons.villagers.reignofnether.second": "เสกชาวบ้าน 3 หน่วยที่ตำแหน่งเป้าหมาย",
+    "hud.startbuttons.monsters.reignofnether.first": "เข้าร่วมเกมในฐานะฝ่ายมอนสเตอร์",
+    "hud.startbuttons.monsters.reignofnether.second": "เสกซอมบี้ชาวบ้าน 3 หน่วยที่ตำแหน่งเป้าหมาย",
+    "hud.startbuttons.piglins.reignofnether.first": "เข้าร่วมเกมในฐานะฝ่ายพิกลิน",
+    "hud.startbuttons.piglins.reignofnether.second": "เสกพิกลินระดับล่าง 3 หน่วยที่ตำแหน่งเป้าหมาย",
+
+    "hud.reignofnether.you_are_spectator": "คุณเป็นผู้ชมอยู่",
+
+    "time.reignofnether.time": "เวลา: %s",
+    "time.reignofnether.real_time": "เวลาจริง: %s",
+    "time.reignofnether.time_until": "%s จนกว่าจะถึง%s",
+    "time.reignofnether.day": "กลางวัน",
+    "time.reignofnether.night": "กลางคืน",
+
     "tutorial.reignofnether.welcome": "ยินดีต้อนรับสู่ Reign of Nether",
     "tutorial.reignofnether.join": "กดปุ่ม F12 เพื่อสลับโหมดกล้อง RTS และเข้าร่วมเกม",
     "tutorial.reignofnether.help": "ใช้คำสั่ง '/rts-help' เพื่อดูรายการคำสั่งทั้งหมด",
